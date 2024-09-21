@@ -1,0 +1,4929 @@
+nohup: ignoring input
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_anti_corr.txt
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.000629352 s[0m
+len:0, num:1245
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.000582627 s[0m
+len:0, num:1229
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.000593432 s[0m
+len:0, num:1245
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1239.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_anti_corr.txt
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.000583383 s[0m
+len:0, num:1245
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.000583931 s[0m
+len:0, num:1229
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.0005838 s[0m
+len:0, num:1245
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1239.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m0.000565391 s[0m
+len:0, num:1464
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000525465 s[0m
+len:0, num:1505
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.000522892 s[0m
+len:0, num:1464
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1477.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m0.000527903 s[0m
+len:0, num:1464
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000537123 s[0m
+len:0, num:1505
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.000523991 s[0m
+len:0, num:1464
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1477.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	
+0-itr:	
+q: 0	0	1	
+Query Time	[31m0.000841856 s[0m
+len:0, num:1909
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.000758039 s[0m
+len:0, num:1909
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.000985644 s[0m
+len:0, num:2561
+
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.000938879 s[0m
+len:0, num:2561
+
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.000905037 s[0m
+len:0, num:2239
+
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m2236.33[0m
+Query Time	[31m0.000831196 s[0m
+len:0, num:2239
+
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m2236.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/small_anti_corr.txt
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.00105565 s[0m
+len:0, num:2677
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00112333 s[0m
+len:0, num:3026
+
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.000799191 s[0m
+len:0, num:1964
+
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m2555.67[0m
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.000917999 s[0m
+len:0, num:2677
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.000939295 s[0m
+len:0, num:3026
+
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.000628053 s[0m
+len:0, num:1964
+
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m2555.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/small_anti_corr.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.0015434 s[0m
+len:2, num:5014
+[0,9988,0];[0,0,29];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.000903816 s[0m
+len:1, num:2838
+[0,0,29];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.000911079 s[0m
+len:1, num:2838
+[0,0,29];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m3563.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_anti_corr.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.00149514 s[0m
+len:2, num:5014
+[0,9988,0];[0,0,29];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.000913172 s[0m
+len:1, num:2838
+[0,0,29];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.00091527 s[0m
+len:1, num:2838
+[0,0,29];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m3563.33[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00214817 s[0m
+len:0, num:5419
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00197928 s[0m
+len:0, num:5419
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00200168 s[0m
+len:0, num:5419
+
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m5419[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00217407 s[0m
+len:0, num:5419
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00208463 s[0m
+len:0, num:5419
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00201029 s[0m
+len:0, num:5419
+
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m5419[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.00528107 s[0m
+len:0, num:12523
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.00565534 s[0m
+
+len:0, num:12523
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00355277 s[0m
+len:0, num:6427
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00359818 s[0m
+len:0, num:6427
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00438326 s[0m
+len:0, num:9465
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00456457 s[0m
+
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m9471.67[0m
+len:0, num:9465
+
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m9471.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	1	0	
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.0045034 s[0m
+len:0, num:10409
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.00362728 s[0m
+len:0, num:10409
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.00441002 s[0m
+len:0, num:9851
+
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.00400944 s[0m
+len:0, num:9851
+
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.00376662 s[0m
+len:0, num:9118
+
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m9792.67[0m
+Query Time	[31m0.00444504 s[0m
+len:0, num:9118
+
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m9792.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	0	0	
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.00651063 s[0m
+len:0, num:14385
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.0088496 s[0m
+len:0, num:14385
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00814779 s[0m
+len:0, num:14188
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00819033 s[0m
+len:0, num:14188
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00612659 s[0m
+len:0, num:11721
+
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m13431.3[0m
+Query Time	[31m0.00820931 s[0m
+len:0, num:11721
+
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m13431.3[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.012048 s[0m
+len:0, num:16228
+
+1-itr:	
+q: 1	1	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.0175366 s[0m
+len:1, num:28670
+[0,9999,0];
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.0156686 s[0m
+len:1, num:28533
+[0,9999,0];
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m24477[0m
+Query Time	[31m0.0358983 s[0m
+len:0, num:16228
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.0150641 s[0m
+len:1, num:28670
+[0,9999,0];
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.0158822 s[0m
+len:1, num:28533
+[0,9999,0];
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m24477[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	1	
+0-itr:	
+q: 1	1	
+Query Time	[31m0.000954442 s[0m
+len:0, num:2270
+
+1-itr:	
+q: 0	1	
+Query Time	[31m0.0010418 s[0m
+len:0, num:2270
+
+1-itr:	
+q: 0	1	
+Query Time	[31m0.000954757 s[0m
+len:1, num:2443
+[24,9871];
+2-itr:	
+q: 0	1	
+Query Time	[31m0.00103842 s[0m
+len:1, num:2443
+[24,9871];
+2-itr:	
+q: 0	1	
+Query Time	[31m0.000998262 s[0m
+len:1, num:2443
+[24,9871];
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m2385.33[0m
+Query Time	[31m0.00102157 s[0m
+len:1, num:2443
+[24,9871];
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m2385.33[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	0	0	0	
+Query Time	[31m0.000362042 s[0m
+len:0, num:1324
+
+1-itr:	
+q: 1	0	1	0	
+0-itr:	
+q: 1	0	0	0	
+Query Time	[31m0.000398332 s[0m
+Query Time	[31m0.000785075 s[0m
+len:0, num:1324
+len:2, num:3239
+
+[9466,2363,8876,702];[9539,646,9876,1371];
+2-itr:	
+q: 1	0	1	0	
+1-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.00100853 s[0m
+len:2, num:3239
+[9466,2363,8876,702];[9539,646,9876,1371];
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m2600.67[0m
+Query Time	[31m0.00122223 s[0m
+len:2, num:3239
+[9466,2363,8876,702];[9539,646,9876,1371];
+2-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.000843221 s[0m
+len:2, num:3239
+[9466,2363,8876,702];[9539,646,9876,1371];
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m2600.67[0m
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	1	1	1	1	
+Query Time	[31m0.000697109 s[0m
+len:0, num:1378
+
+0-itr:	
+q: 0	1	1	1	1	
+Query Time	[31m0.000730802 s[0m
+len:0, num:1378
+
+1-itr:	
+q: 0	1	0	1	1	
+Query Time	[31m0.000580319 s[0m
+len:0, num:1128
+
+1-itr:	
+q: 0	1	0	1	1	
+Query Time	[31m0.000578866 s[0m
+len:0, num:1128
+
+2-itr:	
+q: 0	0	0	1	0	
+Query Time	[31m0.000570035 s[0m
+len:0, num:1131
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1212.33[0m
+2-itr:	
+q: 0	0	0	1	0	
+Query Time	[31m0.000585678 s[0m
+len:0, num:1131
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1212.33[0m
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	0	1	1	
+Query Time	[31m0.00116545 s[0m
+len:2, num:3515
+[294,8045,8569,933,9172,4981];[1460,5843,9190,227,5283,6797];
+1-itr:	
+q: 0	0	0	0	0	0	
+Query Time	[31m0.000483169 s[0m
+len:0, num:1145
+
+2-itr:	
+q: 0	1	1	0	0	0	
+Query Time	[31m0.00091333 s[0m
+len:1, num:2864
+[294,8045,8569,933,9172,4981];
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m2508[0m
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	0	1	1	
+Query Time	[31m0.00114192 s[0m
+len:2, num:3515
+[294,8045,8569,933,9172,4981];[1460,5843,9190,227,5283,6797];
+1-itr:	
+q: 0	0	0	0	0	0	
+Query Time	[31m0.000514478 s[0m
+len:0, num:1145
+
+2-itr:	
+q: 0	1	1	0	0	0	
+Query Time	[31m0.000932141 s[0m
+len:1, num:2864
+[294,8045,8569,933,9172,4981];
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m2508[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_correlate.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.000612895 s[0m
+len:0, num:1358
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000517366 s[0m
+len:0, num:1358
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000559124 s[0m
+len:0, num:1332
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.000483187 s[0m
+len:0, num:1332
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.000536052 s[0m
+len:0, num:1225
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1305[0m
+Query Time	[31m0.000451584 s[0m
+len:0, num:1225
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1305[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.000760419 s[0m
+len:1, num:2330
+[0,0,547];
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000967603 s[0m
+len:2, num:3429
+[9308,9322,0];[0,0,547];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.000592336 s[0m
+len:0, num:1683
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m2480.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.000760957 s[0m
+len:1, num:2330
+[0,0,547];
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.000964053 s[0m
+len:2, num:3429
+[9308,9322,0];[0,0,547];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.000594939 s[0m
+len:0, num:1683
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m2480.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_correlate.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.000901172 s[0m
+len:0, num:2246
+
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.00107417 s[0m
+len:1, num:3044
+[0,9431,9439];
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.000899173 s[0m
+len:0, num:2413
+
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m2567.67[0m
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.000917789 s[0m
+len:0, num:2246
+
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.013733 s[0m
+len:1, num:3044
+[0,9431,9439];
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.000900788 s[0m
+len:0, num:2413
+
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m2567.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/small_correlate.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.00116233 s[0m
+len:2, num:3922
+[0,9322,0];[9201,0,0];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.00115017 s[0m
+len:0, num:3905
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00111902 s[0m
+len:1, num:4009
+[0,476,637];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m3945.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_correlate.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.00106806 s[0m
+len:2, num:3922
+[0,9322,0];[9201,0,0];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.00111907 s[0m
+len:0, num:3905
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00118548 s[0m
+len:1, num:4009
+[0,476,637];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m3945.33[0m
+connected
+connected
+Party: CS_1
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_correlate.txt
+./data/data3/size=1000/rate=50/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 1	1	1	
+q: 1	1	1	
+Query Time	[31m0.000701184 s[0m
+len:1, num:3000
+[0,9431,9439];
+Query Time	[31m0.00112573 s[0m
+len:1, num:3000
+[0,9431,9439];
+1-itr:	
+q: 1	1	1	
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.00061627 s[0m
+len:1, num:3000
+[0,9431,9439];
+Query Time	[31m0.00104397 s[0m
+len:1, num:3000
+[0,9431,9439];
+2-itr:	
+2-itr:	
+q: 0	0	1	
+q: 0	0	1	
+Query Time	[31m0.00105831 s[0m
+len:0, num:3747
+
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m3249[0m
+Query Time	[31m0.00123313 s[0m
+len:0, num:3747
+
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m3249[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00248017 s[0m
+len:1, num:7371
+[372,302,421];
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.00368294 s[0m
+len:1, num:7371
+[372,302,421];
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.00262789 s[0m
+len:1, num:6624
+[9686,9815,9797];
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.00349823 s[0m
+len:1, num:6624
+[9686,9815,9797];
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.00295124 s[0m
+len:0, num:7450
+
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m7148.33[0m
+Query Time	[31m0.00414207 s[0m
+len:0, num:7450
+
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m7148.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00592744 s[0m
+len:1, num:11376
+[291,335,363];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.00577527 s[0m
+len:1, num:11376
+[291,335,363];
+Query Time	[31m0.00395517 s[0m
+len:0, num:8321
+
+2-itr:	
+q: 0	0	0	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.00387767 s[0m
+len:0, num:8321
+
+Query Time	[31m0.00501866 s[0m
+len:1, num:11376
+[291,335,363];
+2-itr:	
+q: 0	0	0	
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m10357.7[0m
+Query Time	[31m0.00549925 s[0m
+len:1, num:11376
+[291,335,363];
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m10357.7[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 0	0	0	
+q: 0	0	0	
+Query Time	[31m0.00419121 s[0m
+len:1, num:16818
+[242,196,155];
+Query Time	[31m0.00581173 s[0m
+len:1, num:16818
+[242,196,155];
+1-itr:	
+q: 0	0	0	
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00465996 s[0m
+len:1, num:16818
+[242,196,155];
+Query Time	[31m0.00527259 s[0m
+len:1, num:16818
+[242,196,155];
+2-itr:	
+2-itr:	
+q: 0	1	1	
+q: 0	1	1	
+Query Time	[31m0.00382802 s[0m
+len:0, num:11219
+
+Query Time	[31m0.00414501 s[0m
+len:0, num:11219
+
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m14951.7[0m
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m14951.7[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 1	0	1	
+q: 1	0	1	
+Query Time	[31m0.00828934 s[0m
+len:0, num:15232
+
+Query Time	[31m0.00918167 s[0m
+len:0, num:15232
+
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.0105015 s[0m
+len:0, num:18961
+
+Query Time	[31m0.0105617 s[0m
+len:0, num:18961
+
+2-itr:	
+q: 0	1	0	
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.0132058 s[0m
+len:1, num:23044
+[166,0,249];
+Query Time	[31m0.0132174 s[0m
+len:1, num:23044
+[166,0,249];
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m19079[0m
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m19079[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.0438637 s[0m
+len:1, num:24617
+[105,148,0];
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.0152966 s[0m
+len:1, num:31226
+[0,9775,0];
+Query Time	[31m0.0349589 s[0m
+len:1, num:24617
+[105,148,0];
+2-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.0163891 s[0m
+len:1, num:30301
+[0,9775,0];
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m28714.7[0m
+Query Time	[31m0.0499802 s[0m
+len:1, num:31226
+[0,9775,0];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.0507414 s[0m
+len:1, num:30301
+[0,9775,0];
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m28714.7[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	1	
+0-itr:	
+q: 1	1	
+Query Time	[31m0.000408688 s[0m
+len:1, num:2185
+Query Time	[31m0.000714883 s[0m
+len:1, num:2185
+[9694,9678];
+[9694,9678];
+1-itr:	
+q: 0	1	
+1-itr:	
+q: 0	1	
+Query Time	[31m0.000449304 s[0m
+len:0, num:2394
+
+Query Time	[31m0.000683252 s[0m
+len:0, num:2394
+
+2-itr:	
+q: 0	1	
+Query Time	[31m0.000683233 s[0m
+len:0, num:2394
+
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m2324.33[0m
+2-itr:	
+q: 0	1	
+Query Time	[31m0.000725857 s[0m
+len:0, num:2394
+
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m2324.33[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	1	1	
+Query Time	[31m0.000756915 s[0m
+len:0, num:1562
+
+1-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.000695073 s[0m
+len:0, num:1521
+
+2-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.000699864 s[0m
+len:0, num:1521
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1534.67[0m
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	1	1	
+Query Time	[31m0.000724779 s[0m
+len:0, num:1562
+
+1-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.000667818 s[0m
+len:0, num:1521
+
+2-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.000699245 s[0m
+len:0, num:1521
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1534.67[0m
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	1	1	1	
+Query Time	[31m0.000564093 s[0m
+len:0, num:1491
+
+1-itr:	
+q: 0	0	0	1	1	
+Query Time	[31m0.000634776 s[0m
+len:0, num:2032
+
+2-itr:	
+q: 0	1	1	0	1	
+Query Time	[31m0.000626468 s[0m
+len:0, num:1916
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1813[0m
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	1	1	1	
+Query Time	[31m0.000536793 s[0m
+len:0, num:1491
+
+1-itr:	
+q: 0	0	0	1	1	
+Query Time	[31m0.000683588 s[0m
+len:0, num:2032
+
+2-itr:	
+q: 0	1	1	0	1	
+Query Time	[31m0.00064063 s[0m
+len:0, num:1916
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1813[0m
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 0	0	0	0	0	0	
+q: 0	0	0	0	0	0	
+Query Time	[31m0.000574776 s[0m
+len:1, num:2168
+[0,0,0,0,1413,1321];
+Query Time	[31m0.000705837 s[0m
+len:1, num:2168
+[0,0,0,0,1413,1321];
+1-itr:	
+q: 0	0	0	0	1	1	
+1-itr:	
+q: 0	0	0	0	1	1	
+Query Time	[31m0.000508963 s[0m
+len:0, num:1865
+
+Query Time	[31m0.000643065 s[0m
+len:0, num:1865
+
+2-itr:	
+2-itr:	
+q: 0	1	1	0	0	0	
+q: 0	1	1	0	0	0	
+Query Time	[31m0.000570887 s[0m
+len:1, num:2226
+[0,0,0,0,1413,1321];
+Query Time	[31m0.000598387 s[0m
+len:1, num:2226
+[0,0,0,0,1413,1321];
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m2086.33[0m
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m2086.33[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_uniformly.txt
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.000549029 s[0m
+len:0, num:1164
+
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.00058181 s[0m
+len:0, num:1425
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.000506675 s[0m
+len:0, num:1181
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1256.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_uniformly.txt
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.000515738 s[0m
+len:0, num:1164
+
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.000575971 s[0m
+len:0, num:1425
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.000517956 s[0m
+len:0, num:1181
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1256.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	
+0-itr:	
+q: 0	0	1	
+Query Time	[31m0.000618991 s[0m
+len:0, num:1677
+
+Query Time	[31m0.000662822 s[0m
+len:0, num:1677
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.000525733 s[0m
+len:0, num:1502
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00047719 s[0m
+len:0, num:1278
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1485.67[0m
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.000551466 s[0m
+len:0, num:1502
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.000483644 s[0m
+len:0, num:1278
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1485.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_uniformly.txt
+0-itr:	
+q: 1	0	1	
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.000930741 s[0m
+len:1, num:2646
+[0,4,0];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.000883427 s[0m
+len:1, num:2646
+[0,4,0];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.000965665 s[0m
+len:1, num:2996
+[0,4,0];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.000955924 s[0m
+len:1, num:2996
+[0,4,0];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.000974996 s[0m
+len:1, num:2996
+[0,4,0];
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m2879.33[0m
+Query Time	[31m0.000951991 s[0m
+len:1, num:2996
+[0,4,0];
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m2879.33[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/small_uniformly.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.0013519 s[0m
+len:1, num:3491
+[12,0,0];
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.00116008 s[0m
+len:1, num:3491
+[12,0,0];
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00128777 s[0m
+len:1, num:3585
+[12,0,0];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m3522.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_uniformly.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.00128519 s[0m
+len:1, num:3491
+[12,0,0];
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.00122819 s[0m
+len:1, num:3491
+[12,0,0];
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00126208 s[0m
+len:1, num:3585
+[12,0,0];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m3522.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/small_uniformly.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.00159201 s[0m
+len:2, num:4369
+[0,0,9979];[0,9964,0];
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00169147 s[0m
+len:2, num:4369
+[0,0,9979];[0,9964,0];
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00134938 s[0m
+len:1, num:3572
+[0,0,15];
+Query Time	[31m0.00132756 s[0m
+2-itr:	
+q: 1	1	0	
+len:1, num:3572
+[0,0,15];
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.00128942 s[0m
+len:2, num:4241
+[0,0,15];[0,9964,0];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m1.66667[0m
+CS_1 Dom Number	[31m4060.67[0m
+Query Time	[31m0.00136984 s[0m
+len:2, num:4241
+[0,0,15];[0,9964,0];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m1.66667[0m
+CS_2 Dom Number	[31m4060.67[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.0025428 s[0m
+len:0, num:5651
+
+1-itr:	
+q: 0	0	0	
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.00229106 s[0m
+len:0, num:5234
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00208546 s[0m
+len:0, num:5651
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.00203359 s[0m
+len:0, num:4347
+
+Query Time	[31m0.00187632 s[0m
+len:0, num:5234
+
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+2-itr:	
+q: 0	0	1	
+CS_1 Dom Number	[31m5077.33[0m
+Query Time	[31m0.00209372 s[0m
+len:0, num:4347
+
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m5077.33[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.00339512 s[0m
+len:0, num:6470
+
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.00450774 s[0m
+len:1, num:13383
+[0,0,9998];
+2-itr:	
+q: 0	0	0	
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.00298758 s[0m
+len:0, num:6470
+
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.011155 s[0m
+len:0, num:7107
+
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m8986.67[0m
+Query Time	[31m0.00859407 s[0m
+len:1, num:13383
+[0,0,9998];
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.00286833 s[0m
+len:0, num:7107
+
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m8986.67[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	1	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_uniformly.txt
+Query Time	[31m0.0143052 s[0m
+len:0, num:7362
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00824628 s[0m
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.00607594 s[0m
+len:0, num:7362
+len:1, num:15988
+[9997,0,0];
+2-itr:	
+q: 0	1	0	
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.0139789 s[0m
+len:0, num:7362
+
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m10237.3[0m
+Query Time	[31m0.0205364 s[0m
+len:1, num:15988
+[9997,0,0];
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.00479375 s[0m
+len:0, num:7362
+
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m10237.3[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	0	1	
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.00887081 s[0m
+len:0, num:14624
+
+Query Time	[31m0.00926526 s[0m
+len:0, num:14624
+
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.0124348 s[0m
+len:1, num:24449
+[0,0,1];
+Query Time	[31m0.0128293 s[0m
+len:1, num:24449
+[0,0,1];
+2-itr:	
+q: 1	1	1	
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.00849855 s[0m
+len:0, num:13503
+
+Query Time	[31m0.0092511 s[0m
+len:0, num:13503
+
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m17525.3[0m
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m17525.3[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.0135551 s[0m
+len:0, num:19835
+
+1-itr:	
+q: 1	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.0128849 s[0m
+len:0, num:17153
+
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.011923 s[0m
+len:0, num:17153
+
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m18047[0m
+Query Time	[31m0.0471407 s[0m
+len:0, num:19835
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.0127622 s[0m
+len:0, num:17153
+
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.0115203 s[0m
+len:0, num:17153
+
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m18047[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	
+Query Time	[31m0.000852162 s[0m
+len:1, num:2518
+[31,0];
+1-itr:	
+q: 1	1	
+Query Time	[31m0.000489774 s[0m
+len:0, num:1237
+
+2-itr:	
+q: 1	1	
+Query Time	[31m0.000462657 s[0m
+len:0, num:1237
+
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m1664[0m
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	
+Query Time	[31m0.000780496 s[0m
+len:1, num:2518
+[31,0];
+1-itr:	
+q: 1	1	
+Query Time	[31m0.000456094 s[0m
+len:0, num:1237
+
+2-itr:	
+q: 1	1	
+Query Time	[31m0.000478322 s[0m
+len:0, num:1237
+
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m1664[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	1	0	1	
+Query Time	[31m0.000605782 s[0m
+len:0, num:1322
+
+1-itr:	
+q: 0	0	0	0	
+Query Time	[31m0.000638688 s[0m
+len:0, num:1601
+
+2-itr:	
+q: 1	1	0	1	
+Query Time	[31m0.000566787 s[0m
+len:0, num:1315
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1412.67[0m
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	1	0	1	
+Query Time	[31m0.000554979 s[0m
+len:0, num:1322
+
+1-itr:	
+q: 0	0	0	0	
+Query Time	[31m0.000779191 s[0m
+len:0, num:1601
+
+2-itr:	
+q: 1	1	0	1	
+Query Time	[31m0.00078139 s[0m
+len:0, num:1315
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1412.67[0m
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	0	1	
+Query Time	[31m0.000565182 s[0m
+len:0, num:1376
+
+1-itr:	
+q: 1	1	0	1	1	
+Query Time	[31m0.000471394 s[0m
+len:0, num:1111
+
+2-itr:	
+q: 0	0	1	0	0	
+Query Time	[31m0.000517744 s[0m
+len:0, num:1402
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1296.33[0m
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	0	1	
+Query Time	[31m0.000516637 s[0m
+len:0, num:1376
+
+1-itr:	
+q: 1	1	0	1	1	
+Query Time	[31m0.000448756 s[0m
+len:0, num:1111
+
+2-itr:	
+q: 0	0	1	0	0	
+Query Time	[31m0.000532704 s[0m
+len:0, num:1402
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1296.33[0m
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	0	1	1	1	1	
+0-itr:	
+q: 1	0	1	1	1	1	
+Query Time	[31m0.00155189 s[0m
+len:4, num:6532
+[5507,1020,4416,9960,9697,2283];[9002,150,0,6182,9580,9719];[9170,117,3834,9445,6786,6263];[8936,1450,8039,7377,8015,9552];
+1-itr:	
+q: 0	1	0	1	0	0	
+Query Time	[31m0.00193472 s[0m
+len:4, num:6532
+[5507,1020,4416,9960,9697,2283];[9002,150,0,6182,9580,9719];[9170,117,3834,9445,6786,6263];[8936,1450,8039,7377,8015,9552];
+1-itr:	
+q: 0	1	0	1	0	0	
+Query Time	[31m0.00135404 s[0m
+len:4, num:5887
+[240,5035,0,8276,2913,368];[161,2120,1179,8089,603,918];[740,8082,166,7887,860,0];[1168,7195,407,8018,6199,1089];
+2-itr:	
+q: 0	0	0	0	0	0	
+Query Time	[31m0.00172904 s[0m
+len:4, num:5887
+[240,5035,0,8276,2913,368];[161,2120,1179,8089,603,918];[740,8082,166,7887,860,0];[1168,7195,407,8018,6199,1089];
+2-itr:	
+q: 0	0	0	0	0	0	
+Query Time	[31m0.000861574 s[0m
+len:2, num:3633
+[161,2120,1179,8089,603,918];[0,4460,1343,938,730,49];
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m3.33333[0m
+CS_1 Dom Number	[31m5350.67[0m
+Query Time	[31m0.00112931 s[0m
+len:2, num:3633
+[161,2120,1179,8089,603,918];[0,4460,1343,938,730,49];
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m3.33333[0m
+CS_2 Dom Number	[31m5350.67[0m
+connected
+connected
+Party: CS_2
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/nba.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.0014935 s[0m
+len:2, num:4579
+[3539,2831,1155];[3311,2868,449];
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.000980366 s[0m
+len:0, num:2941
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.00114471 s[0m
+len:0, num:2941
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m3487[0m
+./data/data3/size=1000/rate=10/nba.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.00155426 s[0m
+len:2, num:4579
+[3539,2831,1155];[3311,2868,449];
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00104515 s[0m
+len:0, num:2941
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.00105625 s[0m
+len:0, num:2941
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m3487[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/nba.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.00325322 s[0m
+len:0, num:10984
+
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.00313034 s[0m
+len:0, num:10984
+
+1-itr:	
+q: 0	0	1	
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.00328751 s[0m
+len:2, num:10959
+[0,0,1463];[22,2,0];
+Query Time	[31m0.00274445 s[0m
+len:2, num:10959
+[0,0,1463];[22,2,0];
+2-itr:	
+q: 1	0	0	
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.0027666 s[0m
+len:0, num:10984
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m10975.7[0m
+Query Time	[31m0.00342812 s[0m
+len:0, num:10984
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m10975.7[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/nba.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.00724522 s[0m
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.00708737 s[0m
+len:0, num:30037
+len:0, num:30037
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.00883897 s[0m
+
+1-itr:	
+q: 1	0	1	
+len:0, num:37979
+
+Query Time	[31m0.00874813 s[0m
+len:0, num:37979
+
+2-itr:	
+q: 0	0	1	
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.00568271 s[0m
+len:1, num:23919
+[22,2,0];
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m30645[0m
+Query Time	[31m0.00738699 s[0m
+len:1, num:23919
+[22,2,0];
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m30645[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/nba.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/nba.txt
+0-itr:	
+q: 0	0	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.000832812 s[0m
+len:2, num:4628
+[0,0,3];[22,0,0];
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.000961808 s[0m
+len:2, num:4628
+[0,0,3];[22,0,0];
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.0110555 s[0m
+len:2, num:60162
+[0,0,3];[22,0,0];
+Query Time	[31m0.0121495 s[0m
+len:2, num:60162
+[0,0,3];[22,0,0];
+2-itr:	
+2-itr:	
+q: 0	1	0	
+q: 0	1	0	
+Query Time	[31m0.0129518 s[0m
+len:2, num:60162
+[0,0,3];[22,0,0];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m2[0m
+CS_2 Dom Number	[31m41650.7[0m
+Query Time	[31m0.013494 s[0m
+len:2, num:60162
+[0,0,3];[22,0,0];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m2[0m
+CS_1 Dom Number	[31m41650.7[0m
+connected
+connected
+Party: CS_2
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/nba.txt
+0-itr:	
+q: 1	0	0	
+./data/data3/size=1000/rate=50/nba.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.0467291 s[0m
+len:2, num:104758
+[3539,0,0];[0,2,4];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.0518338 s[0m
+len:2, num:104758
+[3539,0,0];[0,2,4];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.0432535 s[0m
+Query Time	[31m0.0592721 s[0m
+len:1, num:100223
+[0,0,1246];
+2-itr:	
+q: 1	0	0	
+len:1, num:100223
+[0,0,1246];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.0321547 s[0m
+Query Time	[31m0.0583701 s[0m
+len:2, num:104758
+[3539,0,0];[0,2,4];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m1.66667[0m
+CS_1 Dom Number	[31m103246[0m
+len:2, num:104758
+[3539,0,0];[0,2,4];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m1.66667[0m
+CS_2 Dom Number	[31m103246[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/nba.txt
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00330066 s[0m
+len:2, num:10263
+[20,6,4];[21,0,2];
+1-itr:	
+q: 1	1	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.00317107 s[0m
+len:2, num:10263
+[20,6,4];[21,0,2];
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.0366574 s[0m
+len:0, num:90108
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.0415696 s[0m
+len:0, num:90108
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.0326525 s[0m
+len:1, num:69449
+[21,0,2];
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m56606.7[0m
+Query Time	[31m0.0258032 s[0m
+len:1, num:69449
+[21,0,2];
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m56606.7[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.0617612 s[0m
+len:1, num:218791
+[0,0,0];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.117093 s[0m
+len:1, num:218791
+[0,0,0];
+Query Time	[31m0.061857 s[0m
+1-itr:	
+q: 0	1	1	
+len:1, num:218791
+[0,0,0];
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.0495034 s[0m
+len:2, num:80699
+[3539,2831,1155];[0,0,0];
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m172760[0m
+Query Time	[31m0.0877152 s[0m
+len:1, num:218791
+[0,0,0];
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.0243398 s[0m
+len:2, num:80699
+[3539,2831,1155];[0,0,0];
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m172760[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/nba.txt
+0-itr:	
+q: 1	0	0	
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.109469 s[0m
+len:1, num:355162
+[0,0,1];
+Query Time	[31m0.11048 s[0m
+len:1, num:355162
+[0,0,1];
+1-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.0891338 s[0m
+len:0, num:358940
+
+Query Time	[31m0.0903569 s[0m
+len:0, num:358940
+
+2-itr:	
+q: 1	1	0	
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.0966488 s[0m
+len:1, num:422563
+[0,0,1];
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m378888[0m
+Query Time	[31m0.107428 s[0m
+len:1, num:422563
+[0,0,1];
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m378888[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.184764 s[0m
+len:1, num:635429
+[0,0,1530];
+Query Time	[31m0.294625 s[0m
+len:1, num:635429
+[0,0,1530];
+1-itr:	
+q: 0	0	0	
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.0132123 s[0m
+len:1, num:24477
+[16,2,1];
+Query Time	[31m0.0312017 s[0m
+len:1, num:24477
+[16,2,1];
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.0296327 s[0m
+len:1, num:24477
+[16,2,1];
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m228128[0m
+Query Time	[31m0.0159726 s[0m
+len:1, num:24477
+[16,2,1];
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m228128[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.358786 s[0m
+len:1, num:865627
+[0,0,0];
+Query Time	[31m0.418863 s[0m
+len:1, num:865627
+[0,0,0];
+1-itr:	
+q: 1	0	1	
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.308618 s[0m
+len:1, num:1039611
+[0,0,0];
+Query Time	[31m0.289651 s[0m
+len:1, num:1039611
+[0,0,0];
+2-itr:	
+2-itr:	
+q: 0	1	1	
+q: 0	1	1	
+Query Time	[31m0.173086 s[0m
+len:1, num:865627
+[0,0,0];
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m923622[0m
+Query Time	[31m0.242651 s[0m
+len:1, num:865627
+[0,0,0];
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m923622[0m
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	0	
+Query Time	[31m0.00117726 s[0m
+len:1, num:3599
+[24,8];
+1-itr:	
+q: 1	0	
+0-itr:	
+q: 0	0	
+Query Time	[31m0.0127784 s[0m
+len:0, num:44013
+
+2-itr:	
+q: 0	1	
+Query Time	[31m0.00116292 s[0m
+len:1, num:3599
+[24,8];
+1-itr:	
+q: 1	0	
+Query Time	[31m0.00951849 s[0m
+len:0, num:42228
+
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m29946.7[0m
+Query Time	[31m0.0115527 s[0m
+len:0, num:44013
+
+2-itr:	
+q: 0	1	
+Query Time	[31m0.0111832 s[0m
+len:0, num:42228
+
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m29946.7[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	1	0	1	
+0-itr:	
+q: 0	1	0	1	
+Query Time	[31m0.000721304 s[0m
+len:0, num:3626
+
+1-itr:	
+q: 0	0	1	0	
+Query Time	[31m0.00100577 s[0m
+len:0, num:3626
+
+1-itr:	
+q: 0	0	1	0	
+Query Time	[31m0.000948476 s[0m
+len:1, num:5264
+[29,8,0,2];
+2-itr:	
+q: 0	0	0	1	
+Query Time	[31m0.00137355 s[0m
+len:1, num:5264
+[29,8,0,2];
+Query Time	[31m0.000755356 s[0m
+len:0, num:4244
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m4378[0m
+2-itr:	
+q: 0	0	0	1	
+Query Time	[31m0.00117835 s[0m
+len:0, num:4244
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m4378[0m
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	0	0	0	1	
+Query Time	[31m0.00147582 s[0m
+len:2, num:5056
+[17,7,4,1,1];[87,27,25,1,6];
+1-itr:	
+q: 1	1	1	0	1	
+Query Time	[31m0.00141335 s[0m
+len:2, num:5024
+[3364,1942,1029,0,87];[3329,2063,940,0,125];
+2-itr:	
+q: 0	1	1	0	1	
+Query Time	[31m0.000819264 s[0m
+len:0, num:2650
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m4243.33[0m
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	0	0	0	1	
+Query Time	[31m0.00143798 s[0m
+len:2, num:5056
+[17,7,4,1,1];[87,27,25,1,6];
+1-itr:	
+q: 1	1	1	0	1	
+Query Time	[31m0.00141471 s[0m
+len:2, num:5024
+[3364,1942,1029,0,87];[3329,2063,940,0,125];
+2-itr:	
+q: 0	1	1	0	1	
+Query Time	[31m0.000830875 s[0m
+len:0, num:2650
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m4243.33[0m
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	0	1	1	
+0-itr:	
+q: 0	1	1	0	1	1	
+Query Time	[31m0.000985414 s[0m
+len:0, num:3391
+
+1-itr:	
+q: 0	0	1	1	0	1	
+Query Time	[31m0.00143048 s[0m
+len:0, num:3391
+
+1-itr:	
+q: 0	0	1	1	0	1	
+Query Time	[31m0.00184479 s[0m
+len:0, num:5018
+
+2-itr:	
+q: 1	1	0	1	1	1	
+Query Time	[31m0.00187192 s[0m
+len:0, num:5018
+
+2-itr:	
+q: 1	1	0	1	1	1	
+Query Time	[31m0.00286992 s[0m
+len:4, num:10605
+[2918,2009,540,484,169,40];[3465,1887,1004,206,158,187];[3143,2034,0,371,81,280];[3027,0,592,539,138,81];
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m6338[0m
+Query Time	[31m0.00390885 s[0m
+len:4, num:10605
+[2918,2009,540,484,169,40];[3465,1887,1004,206,158,187];[3143,2034,0,371,81,280];[3027,0,592,539,138,81];
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m6338[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_anti_corr.txt
+0-itr:	
+0-itr:	
+q: 1	1	0	
+q: 1	1	0	
+Query Time	[31m0.277434 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.321467 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.286624 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.30278 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.288777 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.302217 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.206971 s[0m
+len:0, num:999000
+
+Query Time	[31m0.234196 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.200502 s[0m
+len:0, num:999000
+
+Query Time	[31m0.213974 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	0	
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.236867 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.264118 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_anti_corr.txt
+0-itr:	
+q: 0	1	0	
+0-itr:	
+q: 0	1	0	
+Query Time	[31m0.171143 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.230864 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.248164 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.286342 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.294649 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.260931 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/small_anti_corr.txt
+0-itr:	
+q: 1	1	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_anti_corr.txt
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.300914 s[0m
+len:0, num:999000
+
+Query Time	[31m0.330309 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	0	
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.296596 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.33289 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.296178 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.292274 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/small_anti_corr.txt
+0-itr:	
+0-itr:	
+q: 1	0	0	
+q: 1	0	0	
+Query Time	[31m0.196908 s[0m
+len:1, num:999000
+[0,0,29];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.254235 s[0m
+len:1, num:999000
+[0,0,29];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.291197 s[0m
+len:1, num:999000
+[0,0,9905];
+Query Time	[31m0.480715 s[0m
+len:1, num:999000
+[0,0,9905];
+2-itr:	
+q: 1	1	1	
+2-itr:	
+q: 1	1	1	
+Query Time	[31m0.520747 s[0m
+len:2, num:999000
+[0,9988,0];[0,0,9905];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.50679 s[0m
+len:2, num:999000
+[0,9988,0];[0,0,9905];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_anti_corr.txt
+0-itr:	
+0-itr:	
+q: 1	1	0	
+q: 1	1	0	
+Query Time	[31m2.35284 s[0m
+len:1, num:8997000
+[9996,0,0];
+Query Time	[31m2.36893 s[0m
+len:1, num:8997000
+[9996,0,0];
+1-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m2.63504 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 0	1	1	
+Query Time	[31m2.67145 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 0	1	1	
+Query Time	[31m2.04335 s[0m
+len:0, num:8997000
+
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m8.997e+06[0m
+Query Time	[31m2.84565 s[0m
+len:0, num:8997000
+
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m8.997e+06[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m7.08663 s[0m
+len:0, num:24995000
+
+Query Time	[31m7.54314 s[0m
+len:0, num:24995000
+
+1-itr:	
+q: 1	0	0	
+1-itr:	
+q: 1	0	0	
+Query Time	[31m6.04954 s[0m
+len:0, num:24995000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m6.78166 s[0m
+len:0, num:24995000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m5.72753 s[0m
+len:0, num:24995000
+
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m2.4995e+07[0m
+Query Time	[31m7.05509 s[0m
+len:0, num:24995000
+
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m2.4995e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_anti_corr.txt
+0-itr:	
+0-itr:	
+q: 0	0	0	
+q: 0	0	0	
+Query Time	[31m12.3492 s[0m
+len:0, num:48993000
+
+Query Time	[31m12.4398 s[0m
+len:0, num:48993000
+
+1-itr:	
+q: 0	0	0	
+1-itr:	
+q: 0	0	0	
+Query Time	[31m12.7623 s[0m
+len:0, num:48993000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m12.8383 s[0m
+len:0, num:48993000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m11.8373 s[0m
+len:0, num:48993000
+
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m4.8993e+07[0m
+Query Time	[31m12.7854 s[0m
+len:0, num:48993000
+
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m4.8993e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	0	1	
+Query Time	[31m20.2287 s[0m
+len:0, num:80991000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m24.1129 s[0m
+len:0, num:80991000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m20.6493 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m20.497 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m20.1092 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m8.0991e+07[0m
+Query Time	[31m22.3742 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m8.0991e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	1	
+0-itr:	
+q: 0	0	1	
+Query Time	[31m30.2293 s[0m
+len:0, num:120989000
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m31.7689 s[0m
+len:0, num:120989000
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m31.4391 s[0m
+len:1, num:120989000
+[0,9999,0];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m30.731 s[0m
+len:1, num:120989000
+[0,9999,0];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m29.6223 s[0m
+len:0, num:120989000
+
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m1.20989e+08[0m
+Query Time	[31m31.2255 s[0m
+len:0, num:120989000
+
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m1.20989e+08[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+0-itr:	
+q: 0	0	
+q: 0	0	
+Query Time	[31m0.164383 s[0m
+len:0, num:999000
+
+Query Time	[31m0.180601 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	
+1-itr:	
+q: 1	1	
+Query Time	[31m0.157665 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	
+Query Time	[31m0.18864 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	
+Query Time	[31m0.224572 s[0m
+len:0, num:999000
+
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.294679 s[0m
+len:0, num:999000
+
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	1	1	0	
+0-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.194564 s[0m
+len:0, num:999000
+
+Query Time	[31m0.20557 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	0	
+1-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.243613 s[0m
+len:2, num:999000
+[9466,2363,8876,702];[9539,646,9876,1371];
+Query Time	[31m0.284989 s[0m
+len:2, num:999000
+[9466,2363,8876,702];[9539,646,9876,1371];
+2-itr:	
+q: 1	0	1	0	
+2-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.262427 s[0m
+len:2, num:999000
+[9466,2363,8876,702];[9539,646,9876,1371];
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.313395 s[0m
+len:2, num:999000
+[9466,2363,8876,702];[9539,646,9876,1371];
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 1	0	0	0	1	
+0-itr:	
+q: 1	0	0	0	1	
+Query Time	[31m0.233325 s[0m
+len:0, num:999000
+
+Query Time	[31m0.312616 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	1	1	1	
+1-itr:	
+q: 1	1	1	1	1	
+Query Time	[31m0.340884 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	1	1	
+Query Time	[31m0.403546 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	1	1	
+Query Time	[31m0.367539 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.368941 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_anti_corr.txt
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_anti_corr.txt
+0-itr:	
+q: 0	0	0	0	1	0	
+0-itr:	
+q: 0	0	0	0	1	0	
+Query Time	[31m0.217518 s[0m
+len:0, num:999000
+
+Query Time	[31m0.246059 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	0	0	1	1	
+1-itr:	
+q: 1	0	0	0	1	1	
+Query Time	[31m0.185563 s[0m
+len:1, num:999000
+[8297,5977,6293,1698,9446,5554];
+Query Time	[31m0.189407 s[0m
+len:1, num:999000
+[8297,5977,6293,1698,9446,5554];
+2-itr:	
+q: 0	0	1	1	1	1	
+2-itr:	
+q: 0	0	1	1	1	1	
+Query Time	[31m0.57761 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.59917 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_correlate.txt
+0-itr:	
+q: 1	1	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_correlate.txt
+0-itr:	
+q: 1	1	1	
+Query Time	[31m0.236145 s[0m
+len:4, num:999000
+[9308,9322,8751];[8922,9431,9439];[9080,8537,9243];[9201,8922,9078];
+Query Time	[31m0.274709 s[0m
+len:4, num:999000
+[9308,9322,8751];[8922,9431,9439];[9080,8537,9243];[9201,8922,9078];
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.193155 s[0m
+len:0, num:999000
+
+Query Time	[31m0.216764 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	1	
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.275506 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.306173 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m0.517263 s[0m
+len:1, num:999000
+[0,0,547];
+Query Time	[31m0.543105 s[0m
+len:1, num:999000
+[0,0,547];
+1-itr:	
+q: 1	1	1	
+1-itr:	
+q: 1	1	1	
+Query Time	[31m0.208594 s[0m
+len:2, num:999000
+[9308,9322,0];[8922,9431,9439];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.24718 s[0m
+len:2, num:999000
+[9308,9322,0];[8922,9431,9439];
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.166397 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.214874 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_correlate.txt
+0-itr:	
+q: 1	0	1	
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.422876 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.418281 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.266646 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.297046 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.275924 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.288445 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_correlate.txt
+./data/data3/size=1000/rate=40/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 0	0	1	
+q: 0	0	1	
+Query Time	[31m0.205526 s[0m
+len:0, num:999000
+
+Query Time	[31m0.225501 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	1	
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.302564 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.288183 s[0m
+len:2, num:999000
+[0,476,637];[9201,0,0];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.695683 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.557618 s[0m
+len:2, num:999000
+[0,476,637];[9201,0,0];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 1	1	0	
+q: 1	1	0	
+Query Time	[31m0.235332 s[0m
+len:0, num:999000
+
+Query Time	[31m0.678675 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	0	
+1-itr:	
+q: 0	1	0	
+Query Time	[31m0.432908 s[0m
+len:0, num:999000
+
+Query Time	[31m0.575145 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	0	
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.238487 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.244805 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	0	
+0-itr:	
+q: 1	0	0	
+Query Time	[31m2.098 s[0m
+len:0, num:8997000
+
+Query Time	[31m2.53761 s[0m
+len:0, num:8997000
+
+1-itr:	
+q: 0	1	0	
+1-itr:	
+q: 0	1	0	
+Query Time	[31m2.54144 s[0m
+len:0, num:8997000
+
+Query Time	[31m2.97029 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m2.09332 s[0m
+len:1, num:8997000
+[372,302,421];
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m8.997e+06[0m
+Query Time	[31m2.60286 s[0m
+len:1, num:8997000
+[372,302,421];
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m8.997e+06[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 0	1	0	
+q: 0	1	0	
+Query Time	[31m4.08253 s[0m
+len:0, num:24995000
+
+Query Time	[31m4.64633 s[0m
+len:0, num:24995000
+
+1-itr:	
+q: 0	0	1	
+1-itr:	
+q: 0	0	1	
+Query Time	[31m4.02867 s[0m
+len:0, num:24995000
+
+Query Time	[31m4.55451 s[0m
+len:0, num:24995000
+
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m4.42666 s[0m
+len:1, num:24995000
+[291,335,363];
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m2.4995e+07[0m
+Query Time	[31m5.8168 s[0m
+len:1, num:24995000
+[291,335,363];
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m2.4995e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	1	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	1	1	
+Query Time	[31m12.2879 s[0m
+len:0, num:48993000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m12.77 s[0m
+len:0, num:48993000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m11.8489 s[0m
+len:0, num:48993000
+
+Query Time	[31m12.6265 s[0m
+len:0, num:48993000
+
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m11.6407 s[0m
+len:1, num:48993000
+[242,196,155];
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m4.8993e+07[0m
+Query Time	[31m11.6456 s[0m
+len:1, num:48993000
+[242,196,155];
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m4.8993e+07[0m
+connected
+connected
+Party: CS_2
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	1	1	
+./data/data3/size=9000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	1	1	
+Query Time	[31m20.3191 s[0m
+len:0, num:80991000
+
+Query Time	[31m20.3708 s[0m
+len:0, num:80991000
+
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m20.0959 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m20.6658 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m18.7026 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m8.0991e+07[0m
+Query Time	[31m21.0554 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m8.0991e+07[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_correlate.txt
+0-itr:	
+q: 0	0	0	
+0-itr:	
+q: 0	0	0	
+Query Time	[31m28.8859 s[0m
+len:1, num:120989000
+[105,148,0];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m30.7902 s[0m
+len:1, num:120989000
+[105,148,0];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m28.5967 s[0m
+len:1, num:120989000
+[0,9775,0];
+Query Time	[31m32.0132 s[0m
+len:1, num:120989000
+[0,9775,0];
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m29.0743 s[0m
+len:1, num:120989000
+[105,148,0];
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m1.20989e+08[0m
+Query Time	[31m30.2638 s[0m
+len:1, num:120989000
+[105,148,0];
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m1.20989e+08[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	0	
+Query Time	[31m0.240513 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	
+Query Time	[31m0.292148 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	
+Query Time	[31m0.184598 s[0m
+len:2, num:999000
+[173,334];[847,304];
+2-itr:	
+q: 0	0	
+Query Time	[31m0.204022 s[0m
+len:2, num:999000
+[173,334];[847,304];
+2-itr:	
+q: 0	0	
+Query Time	[31m0.19441 s[0m
+len:2, num:999000
+[173,334];[847,304];
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.200198 s[0m
+len:2, num:999000
+[173,334];[847,304];
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 1	1	1	0	
+q: 1	1	1	0	
+Query Time	[31m0.1681 s[0m
+len:0, num:999000
+
+Query Time	[31m0.276051 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	1	1	
+1-itr:	
+q: 1	1	1	1	
+Query Time	[31m0.323427 s[0m
+len:3, num:999000
+[8726,9430,8780,8865];[9016,8988,9346,8914];[8464,9165,0,9375];
+2-itr:	
+q: 0	1	1	0	
+Query Time	[31m0.358247 s[0m
+len:3, num:999000
+[8726,9430,8780,8865];[9016,8988,9346,8914];[8464,9165,0,9375];
+2-itr:	
+q: 0	1	1	0	
+Query Time	[31m0.229771 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.288932 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	1	1	0	1	
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/small_correlate.txt
+0-itr:	
+q: 1	1	1	0	1	
+Query Time	[31m0.3206 s[0m
+len:0, num:999000
+
+Query Time	[31m0.381925 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	0	0	1	
+1-itr:	
+q: 0	1	0	0	1	
+Query Time	[31m0.26676 s[0m
+len:1, num:999000
+[2609,5078,3733,2961,8179];
+2-itr:	
+q: 1	1	1	0	0	
+Query Time	[31m0.301517 s[0m
+len:1, num:999000
+[2609,5078,3733,2961,8179];
+2-itr:	
+q: 1	1	1	0	0	
+Query Time	[31m0.228184 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.215915 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_correlate.txt
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_correlate.txt
+0-itr:	
+0-itr:	
+q: 0	1	1	1	0	1	
+q: 0	1	1	1	0	1	
+Query Time	[31m0.325824 s[0m
+len:2, num:999000
+[4491,6853,6326,6918,4104,8216];[5129,8037,7504,7146,7251,7643];
+Query Time	[31m0.628358 s[0m
+len:2, num:999000
+[4491,6853,6326,6918,4104,8216];[5129,8037,7504,7146,7251,7643];
+1-itr:	
+q: 0	0	1	1	0	1	
+1-itr:	
+q: 0	0	1	1	0	1	
+Query Time	[31m0.384189 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	1	1	0	1	
+Query Time	[31m0.454376 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	1	1	0	1	
+Query Time	[31m0.23828 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.241044 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 0	0	1	
+q: 0	0	1	
+Query Time	[31m0.241136 s[0m
+len:0, num:999000
+
+Query Time	[31m0.261097 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.275603 s[0m
+len:0, num:999000
+
+Query Time	[31m0.294003 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	1	
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.300645 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.311078 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m0.506426 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.486493 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.280551 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.299823 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.209285 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.20937 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/small_uniformly.txt
+0-itr:	
+q: 1	0	0	
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.171966 s[0m
+len:1, num:999000
+[0,4,0];
+Query Time	[31m0.22298 s[0m
+len:1, num:999000
+[0,4,0];
+1-itr:	
+q: 0	0	0	
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.281989 s[0m
+len:2, num:999000
+[12,0,0];[0,4,0];
+Query Time	[31m0.287475 s[0m
+len:2, num:999000
+[12,0,0];[0,4,0];
+2-itr:	
+q: 1	0	1	
+2-itr:	
+q: 1	0	1	
+Query Time	[31m0.275796 s[0m
+len:1, num:999000
+[0,4,0];
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.344524 s[0m
+len:1, num:999000
+[0,4,0];
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/small_uniformly.txt
+0-itr:	
+q: 1	0	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/small_uniformly.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.265159 s[0m
+len:1, num:999000
+[9998,0,0];
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.316582 s[0m
+len:1, num:999000
+[9998,0,0];
+1-itr:	
+q: 0	0	0	
+Query Time	[31m0.22916 s[0m
+len:1, num:999000
+[12,0,0];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.311548 s[0m
+len:1, num:999000
+[12,0,0];
+2-itr:	
+q: 1	0	0	
+Query Time	[31m0.221865 s[0m
+len:1, num:999000
+[9998,0,0];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.223404 s[0m
+len:1, num:999000
+[9998,0,0];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/small_uniformly.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.29109 s[0m
+len:2, num:999000
+[0,0,9979];[0,9964,0];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.292655 s[0m
+len:2, num:999000
+[0,0,9979];[0,9964,0];
+1-itr:	
+q: 1	0	0	
+Query Time	[31m0.287618 s[0m
+len:1, num:999000
+[0,0,15];
+Query Time	[31m0.466575 s[0m
+len:1, num:999000
+[0,0,15];
+2-itr:	
+q: 0	0	0	
+2-itr:	
+q: 0	0	0	
+Query Time	[31m0.476788 s[0m
+len:1, num:999000
+[0,0,15];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m1.33333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.460743 s[0m
+len:1, num:999000
+[0,0,15];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m1.33333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=3000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 0	1	0	
+q: 0	1	0	
+Query Time	[31m2.48302 s[0m
+len:0, num:8997000
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m2.56733 s[0m
+len:0, num:8997000
+
+1-itr:	
+q: 1	1	1	
+Query Time	[31m2.12634 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m2.36681 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m2.19859 s[0m
+len:0, num:8997000
+
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m8.997e+06[0m
+Query Time	[31m2.23499 s[0m
+len:0, num:8997000
+
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m8.997e+06[0m
+connected
+connected
+Party: CS_1
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/small_uniformly.txt
+./data/data3/size=5000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 1	1	1	
+q: 1	1	1	
+Query Time	[31m5.69598 s[0m
+len:1, num:24995000
+[0,0,9998];
+Query Time	[31m6.43912 s[0m
+len:1, num:24995000
+[0,0,9998];
+1-itr:	
+q: 1	0	0	
+1-itr:	
+q: 1	0	0	
+Query Time	[31m6.21493 s[0m
+len:0, num:24995000
+
+Query Time	[31m6.59852 s[0m
+len:0, num:24995000
+
+2-itr:	
+q: 1	0	0	
+2-itr:	
+q: 1	0	0	
+Query Time	[31m6.49161 s[0m
+len:0, num:24995000
+
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m2.4995e+07[0m
+Query Time	[31m6.72628 s[0m
+len:0, num:24995000
+
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m2.4995e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/small_uniformly.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m12.7199 s[0m
+len:0, num:48993000
+
+Query Time	[31m13.3183 s[0m
+len:0, num:48993000
+
+1-itr:	
+q: 1	0	0	
+1-itr:	
+q: 1	0	0	
+Query Time	[31m10.9381 s[0m
+len:1, num:48993000
+[9997,0,0];
+2-itr:	
+q: 1	1	1	
+Query Time	[31m11.7895 s[0m
+len:1, num:48993000
+[9997,0,0];
+2-itr:	
+q: 1	1	1	
+Query Time	[31m13.2541 s[0m
+len:1, num:48993000
+[9997,0,0];
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m4.8993e+07[0m
+Query Time	[31m12.8688 s[0m
+len:1, num:48993000
+[9997,0,0];
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m4.8993e+07[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 1	0	1	
+q: 1	0	1	
+Query Time	[31m19.7452 s[0m
+len:0, num:80991000
+
+Query Time	[31m21.7905 s[0m
+len:0, num:80991000
+
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m21.7888 s[0m
+len:1, num:80991000
+[0,0,1];
+Query Time	[31m22.0921 s[0m
+len:1, num:80991000
+[0,0,1];
+2-itr:	
+q: 1	1	0	
+2-itr:	
+q: 1	1	0	
+Query Time	[31m19.8706 s[0m
+len:1, num:80991000
+[0,0,1];
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m8.0991e+07[0m
+Query Time	[31m20.8092 s[0m
+len:1, num:80991000
+[0,0,1];
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m8.0991e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 1	1	1	
+q: 1	1	1	
+Query Time	[31m30.3533 s[0m
+len:0, num:120989000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m30.5766 s[0m
+len:0, num:120989000
+
+1-itr:	
+q: 1	1	0	
+Query Time	[31m31.5268 s[0m
+len:0, num:120989000
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m31.6449 s[0m
+len:0, num:120989000
+
+2-itr:	
+q: 0	1	0	
+Query Time	[31m28.7507 s[0m
+len:0, num:120989000
+
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m1.20989e+08[0m
+Query Time	[31m29.131 s[0m
+len:0, num:120989000
+
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m1.20989e+08[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	1	
+0-itr:	
+q: 1	1	
+Query Time	[31m0.178527 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	
+Query Time	[31m0.23659 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	
+Query Time	[31m0.211648 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	
+Query Time	[31m0.232223 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	
+Query Time	[31m0.233478 s[0m
+len:1, num:999000
+[31,0];
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.212898 s[0m
+len:1, num:999000
+[31,0];
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/small_uniformly.txt
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 0	1	0	0	
+q: 0	1	0	0	
+Query Time	[31m0.273229 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.387897 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	0	
+Query Time	[31m0.569866 s[0m
+len:1, num:999000
+[7377,25,9263,1128];
+2-itr:	
+q: 1	1	0	1	
+Query Time	[31m0.590235 s[0m
+len:1, num:999000
+[7377,25,9263,1128];
+2-itr:	
+q: 1	1	0	1	
+Query Time	[31m0.447196 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.635059 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/small_uniformly.txt
+./data/data5/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+0-itr:	
+q: 1	0	0	1	1	
+q: 1	0	0	1	1	
+Query Time	[31m0.201295 s[0m
+len:1, num:999000
+[9551,1889,1846,9447,9968];
+Query Time	[31m0.292672 s[0m
+len:1, num:999000
+[9551,1889,1846,9447,9968];
+1-itr:	
+q: 1	0	1	0	0	
+1-itr:	
+q: 1	0	1	0	0	
+Query Time	[31m0.292387 s[0m
+len:0, num:999000
+
+Query Time	[31m0.311882 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	1	0	1	
+2-itr:	
+q: 0	0	1	0	1	
+Query Time	[31m0.372695 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.56733 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	1	1	1	1	1	
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/small_uniformly.txt
+0-itr:	
+q: 1	1	1	1	1	1	
+Query Time	[31m0.424892 s[0m
+len:3, num:999000
+[9297,8947,6001,9764,6856,5120];[9492,4239,9042,8551,8293,7766];[9067,8817,9243,6508,8280,0];
+Query Time	[31m0.483471 s[0m
+len:3, num:999000
+[9297,8947,6001,9764,6856,5120];[9492,4239,9042,8551,8293,7766];[9067,8817,9243,6508,8280,0];
+1-itr:	
+q: 0	0	0	0	1	1	
+1-itr:	
+q: 0	0	0	0	1	1	
+Query Time	[31m0.281459 s[0m
+len:1, num:999000
+[3388,0,667,1379,9744,9993];
+Query Time	[31m0.282474 s[0m
+len:1, num:999000
+[3388,0,667,1379,9744,9993];
+2-itr:	
+q: 1	1	1	1	1	1	
+2-itr:	
+q: 1	1	1	1	1	1	
+Query Time	[31m0.208489 s[0m
+len:3, num:999000
+[9297,8947,6001,9764,6856,5120];[9492,4239,9042,8551,8293,7766];[9067,8817,9243,6508,8280,0];
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m2.33333[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.276879 s[0m
+len:3, num:999000
+[9297,8947,6001,9764,6856,5120];[9492,4239,9042,8551,8293,7766];[9067,8817,9243,6508,8280,0];
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m2.33333[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=10/nba.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=10/nba.txt
+0-itr:	
+q: 1	0	1	
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.257232 s[0m
+len:0, num:999000
+
+Query Time	[31m0.280253 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	1	0	
+1-itr:	
+q: 1	1	0	
+Query Time	[31m0.428189 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.604874 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	0	1	
+Query Time	[31m0.499237 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.401633 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 10
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	1	1	
+0-itr:	
+q: 0	1	1	
+Query Time	[31m0.174983 s[0m
+len:1, num:999000
+[0,0,1463];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.190918 s[0m
+len:1, num:999000
+[0,0,1463];
+1-itr:	
+q: 0	0	1	
+Query Time	[31m0.186067 s[0m
+len:2, num:999000
+[0,0,1463];[22,2,0];
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.232548 s[0m
+len:2, num:999000
+[0,0,1463];[22,2,0];
+2-itr:	
+q: 1	1	0	
+Query Time	[31m0.244968 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.283337 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=30/nba.txt
+0-itr:	
+q: 1	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=30/nba.txt
+0-itr:	
+q: 1	0	1	
+Query Time	[31m0.477624 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.483015 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.380981 s[0m
+len:0, num:999000
+
+Query Time	[31m0.3655 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	0	
+2-itr:	
+q: 0	1	0	
+Query Time	[31m0.219136 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.282025 s[0m
+len:0, num:999000
+
+n = 1000, m = 3, rate = 30
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=40/nba.txt
+0-itr:	
+q: 1	0	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=40/nba.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m0.261041 s[0m
+len:1, num:999000
+[0,0,3];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.398401 s[0m
+len:1, num:999000
+[0,0,3];
+1-itr:	
+q: 0	1	1	
+Query Time	[31m0.225151 s[0m
+len:1, num:999000
+[22,0,0];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.225564 s[0m
+len:1, num:999000
+[22,0,0];
+n = 1000, m = 3, rate = 40
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.389069 s[0m
+len:1, num:999000
+[22,0,0];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.224825 s[0m
+len:1, num:999000
+[22,0,0];
+n = 1000, m = 3, rate = 40
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=1000/rate=50/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=1000/rate=50/nba.txt
+0-itr:	
+q: 1	1	0	
+0-itr:	
+q: 1	1	0	
+Query Time	[31m0.299802 s[0m
+len:2, num:999000
+[3539,0,0];[0,2868,0];
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.323695 s[0m
+len:2, num:999000
+[3539,0,0];[0,2868,0];
+1-itr:	
+q: 1	0	1	
+Query Time	[31m0.177574 s[0m
+len:2, num:999000
+[3539,0,0];[0,0,1246];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.219991 s[0m
+len:2, num:999000
+[3539,0,0];[0,0,1246];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m0.151924 s[0m
+len:2, num:999000
+[0,0,1246];[0,2868,0];
+n = 1000, m = 3, rate = 50
+CS_1 Skyline Number	[31m2[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.278938 s[0m
+len:2, num:999000
+[0,0,1246];[0,2868,0];
+n = 1000, m = 3, rate = 50
+CS_2 Skyline Number	[31m2[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+connected
+connected
+Party: CS_1
+./data/data3/size=3000/rate=20/nba.txt
+0-itr:	
+q: 0	1	0	
+./data/data3/size=3000/rate=20/nba.txt
+0-itr:	
+q: 0	1	0	
+Query Time	[31m2.35599 s[0m
+len:1, num:8997000
+[21,0,2];
+Query Time	[31m2.62294 s[0m
+len:1, num:8997000
+[21,0,2];
+1-itr:	
+q: 0	1	1	
+1-itr:	
+q: 0	1	1	
+Query Time	[31m2.2524 s[0m
+len:0, num:8997000
+
+Query Time	[31m2.3608 s[0m
+len:0, num:8997000
+
+2-itr:	
+q: 1	1	1	
+2-itr:	
+q: 1	1	1	
+Query Time	[31m2.37369 s[0m
+len:1, num:8997000
+[3398,2520,1188];
+n = 3000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.666667[0m
+CS_2 Dom Number	[31m8.997e+06[0m
+Query Time	[31m2.42045 s[0m
+len:1, num:8997000
+[3398,2520,1188];
+n = 3000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.666667[0m
+CS_1 Dom Number	[31m8.997e+06[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=5000/rate=20/nba.txt
+0-itr:	
+q: 1	0	0	
+connected
+connected
+Party: CS_2
+./data/data3/size=5000/rate=20/nba.txt
+0-itr:	
+q: 1	0	0	
+Query Time	[31m6.65517 s[0m
+len:1, num:24995000
+[0,0,0];
+Query Time	[31m7.09976 s[0m
+len:1, num:24995000
+[0,0,0];
+1-itr:	
+q: 1	1	1	
+1-itr:	
+q: 1	1	1	
+Query Time	[31m6.74299 s[0m
+len:2, num:24995000
+[3539,2831,1155];[0,0,0];
+2-itr:	
+q: 0	0	0	
+Query Time	[31m6.95134 s[0m
+len:2, num:24995000
+[3539,2831,1155];[0,0,0];
+2-itr:	
+q: 0	0	0	
+Query Time	[31m6.18531 s[0m
+len:2, num:24995000
+[21,2,2];[0,0,0];
+n = 5000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1.66667[0m
+CS_1 Dom Number	[31m2.4995e+07[0m
+Query Time	[31m6.74477 s[0m
+len:2, num:24995000
+[21,2,2];[0,0,0];
+n = 5000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1.66667[0m
+CS_2 Dom Number	[31m2.4995e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=7000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=7000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m11.4794 s[0m
+len:1, num:48993000
+[17,2,0];
+Query Time	[31m11.8711 s[0m
+len:1, num:48993000
+[17,2,0];
+1-itr:	
+q: 1	0	1	
+1-itr:	
+q: 1	0	1	
+Query Time	[31m11.5213 s[0m
+len:0, num:48993000
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m13.4311 s[0m
+len:0, num:48993000
+
+2-itr:	
+q: 1	0	1	
+Query Time	[31m11.6449 s[0m
+len:0, num:48993000
+
+n = 7000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m4.8993e+07[0m
+Query Time	[31m13.349 s[0m
+len:0, num:48993000
+
+n = 7000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m4.8993e+07[0m
+connected
+connected
+Party: CS_1
+./data/data3/size=9000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	
+connected
+connected
+Party: CS_2
+./data/data3/size=9000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	
+Query Time	[31m18.792 s[0m
+len:1, num:80991000
+[0,0,1530];
+Query Time	[31m19.533 s[0m
+len:1, num:80991000
+[0,0,1530];
+1-itr:	
+q: 0	1	0	
+1-itr:	
+q: 0	1	0	
+Query Time	[31m19.4922 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 1	1	0	
+Query Time	[31m20.7407 s[0m
+len:0, num:80991000
+
+2-itr:	
+q: 1	1	0	
+Query Time	[31m19.4697 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m8.0991e+07[0m
+Query Time	[31m21.6159 s[0m
+len:0, num:80991000
+
+n = 9000, m = 3, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m8.0991e+07[0m
+connected
+connected
+Party: CS_2
+./data/data3/size=11000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data3/size=11000/rate=20/nba.txt
+0-itr:	
+q: 1	1	0	
+0-itr:	
+q: 1	1	0	
+Query Time	[31m28.0626 s[0m
+len:1, num:120989000
+[0,0,0];
+Query Time	[31m32.5 s[0m
+len:1, num:120989000
+[0,0,0];
+1-itr:	
+q: 1	1	1	
+1-itr:	
+q: 1	1	1	
+Query Time	[31m29.8993 s[0m
+len:1, num:120989000
+[0,0,0];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m30.25 s[0m
+len:1, num:120989000
+[0,0,0];
+2-itr:	
+q: 0	1	1	
+Query Time	[31m27.5736 s[0m
+len:1, num:120989000
+[0,0,0];
+n = 11000, m = 3, rate = 20
+CS_2 Skyline Number	[31m1[0m
+CS_2 Dom Number	[31m1.20989e+08[0m
+connected
+connected
+Party: CS_1
+./data/data2/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_2
+./data/data2/size=1000/rate=20/nba.txt
+0-itr:	
+q: 1	1	
+0-itr:	
+q: 1	1	
+Query Time	[31m0.262701 s[0m
+len:1, num:999000
+[3379,2275];
+Query Time	[31m0.286704 s[0m
+len:1, num:999000
+[3379,2275];
+1-itr:	
+q: 0	1	
+1-itr:	
+q: 0	1	
+Query Time	[31m0.30322 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	
+Query Time	[31m30.7017 s[0m
+len:1, num:120989000
+[0,0,0];
+Query Time	[31m0.565748 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	
+n = 11000, m = 3, rate = 20
+CS_1 Skyline Number	[31m1[0m
+CS_1 Dom Number	[31m1.20989e+08[0m
+Query Time	[31m0.465224 s[0m
+len:0, num:999000
+
+n = 1000, m = 2, rate = 20
+CS_1 Skyline Number	[31m0.333333[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.336212 s[0m
+len:0, num:999000
+
+n = 1000, m = 2, rate = 20
+CS_2 Skyline Number	[31m0.333333[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_1
+./data/data4/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_2
+./data/data4/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	1	
+0-itr:	
+q: 0	0	1	1	
+Query Time	[31m0.293243 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	1	1	
+Query Time	[31m0.237653 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.550804 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 0	1	1	1	
+Query Time	[31m0.236158 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.324459 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	1	1	0	
+Query Time	[31m0.234117 s[0m
+len:0, num:999000
+
+n = 1000, m = 4, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data5/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data5/size=1000/rate=20/nba.txt
+0-itr:	
+q: 0	0	1	1	1	
+0-itr:	
+q: 0	0	1	1	1	
+Query Time	[31m0.256201 s[0m
+len:0, num:999000
+
+Query Time	[31m0.301165 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	1	0	
+1-itr:	
+q: 1	0	1	1	0	
+Query Time	[31m0.617867 s[0m
+len:0, num:999000
+
+Query Time	[31m0.603514 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 1	0	1	1	1	
+2-itr:	
+q: 1	0	1	1	1	
+Query Time	[31m0.372723 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
+Query Time	[31m0.495078 s[0m
+len:0, num:999000
+
+n = 1000, m = 5, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+connected
+connected
+Party: CS_2
+./data/data6/size=1000/rate=20/nba.txt
+connected
+connected
+Party: CS_1
+./data/data6/size=1000/rate=20/nba.txt
+0-itr:	
+0-itr:	
+q: 0	1	1	1	0	0	
+q: 0	1	1	1	0	0	
+Query Time	[31m0.261912 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	1	0	1	
+Query Time	[31m0.269532 s[0m
+len:0, num:999000
+
+1-itr:	
+q: 1	0	1	1	0	1	
+Query Time	[31m0.261351 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	1	1	0	0	
+Query Time	[31m0.340916 s[0m
+len:0, num:999000
+
+2-itr:	
+q: 0	1	1	1	0	0	
+Query Time	[31m0.260535 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_2 Skyline Number	[31m0[0m
+CS_2 Dom Number	[31m999000[0m
+Query Time	[31m0.559825 s[0m
+len:0, num:999000
+
+n = 1000, m = 6, rate = 20
+CS_1 Skyline Number	[31m0[0m
+CS_1 Dom Number	[31m999000[0m
